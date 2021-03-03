@@ -1,0 +1,5 @@
+C:\Users\Aivar\Practical_Assignments-Branching-PartII\obj\Debug\net5.0\Practical_Assignments-Branching-PartII.csprojAssemblyReference.cache
+C:\Users\Aivar\Practical_Assignments-Branching-PartII\obj\Debug\net5.0\Practical_Assignments-Branching-PartII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivar\Practical_Assignments-Branching-PartII\obj\Debug\net5.0\Practical_Assignments-Branching-PartII.AssemblyInfoInputs.cache
+C:\Users\Aivar\Practical_Assignments-Branching-PartII\obj\Debug\net5.0\Practical_Assignments-Branching-PartII.AssemblyInfo.cs
+C:\Users\Aivar\Practical_Assignments-Branching-PartII\obj\Debug\net5.0\Practical_Assignments-Branching-PartII.csproj.CoreCompileInputs.cache
